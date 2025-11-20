@@ -165,58 +165,13 @@ sudo apt install jq
 
 ---
 
-# 🧹 Cleanup (Keep Submission Clean)
 
-Safe to delete:
-```
-outputs/_debug_chunk.txt
-outputs/report_debug.json
-outputs/*.bak
-```
-
-Keep only:
-```
-extracted_sections.json
-summary.json
-report.json
-```
-
----
-
-# 🏗 GitHub Workflow
-
-Your `.gitignore` already protects:
-- `.env`
-- Debug files
-- Python cache
-
-Standard workflow:
-```bash
-git add .
-git commit -m "Update pipeline"
-git push
-```
-
----
-
-# 🎥 Video Script (Optional)
-
-If needed, ask:  
-**“give me the 2-minute video script”**
-
----
-
-# ⚠️ Important Note on PDFs in ChatGPT  
-PDFs you previously uploaded in this chat may have expired.  
-If you want me to re-run extraction here, **upload the PDF again**.
-
----
-
-# 🎉 Final Notes
+# 🎉 Finally
 
 The NIYAMR-AI-Agent gives a clean, reproducible, automated pipeline for legal document analysis:
 - Robust extraction  
 - High-quality summarisation  
 - Clear compliance assessment  
 
-Ready for submission, grading, or future extensions.
+Ready for grading, or future extensions.
+
