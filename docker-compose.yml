@@ -1,0 +1,12 @@
+# docker-compose.yml
+services:
+  app:
+    build: .
+    volumes:
+      - ./:/app
+      - ./data:/app/data
+      - ./outputs:/app/outputs
+    env_file:
+      - .env
+    tty: true
+
