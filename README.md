@@ -125,8 +125,6 @@ docker compose run --rm -e OPENAI_API_KEY=$OPENAI_API_KEY \
 | `summary.json` | AI-generated labelled summary |
 | `report.json` | Rule-based compliance assessment |
 
-Only these three need to be included in the final submission.
-
 ---
 
 # 🛠 Troubleshooting
@@ -174,5 +172,6 @@ The NIYAMR-AI-Agent gives a clean, reproducible, automated pipeline for legal do
 - Clear compliance assessment  
 
 Ready for grading, or future extensions.
+
 
 
