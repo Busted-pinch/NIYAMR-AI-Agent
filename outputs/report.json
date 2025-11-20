@@ -1,0 +1,285 @@
+{
+  "report_fields": {
+    "definitions": {
+      "status": "present",
+      "num_hits": 13,
+      "examples": [
+        {
+          "section_title": "Schedule 2 — N orthern Ireland: corresponding provision",
+          "keyword": "means",
+          "contexts": [
+            "nefits) do not apply, in the tax years ending with 5 April 2026, 5 April 2027, 5 April 2028 and 5 April 2029, to any amount of the standard allowance. (6) In this section— (a) “consumer prices index” means the all items consumer prices index published by the Statistics Board; (b) a “relevant power” means— (i) the power in section 9(2) of the Welfare Reform Act 2012, or (ii) the power in section 150(2)(",
+            "ril 2029, to any amount of the standard allowance. (6) In this section— (a) “consumer prices index” means the all items consumer prices index published by the Statistics Board; (b) a “relevant power” means— (i) the power in section 9(2) of the Welfare Reform Act 2012, or (ii) the power in section 150(2)(b) of the Social Security Administration Act 1992; (c) “the standard allowance” means the allowance",
+            "elevant power” means— (i) the power in section 9(2) of the Welfare Reform Act 2012, or (ii) the power in section 150(2)(b) of the Social Security Administration Act 1992; (c) “the standard allowance” means the allowance to be included in an award of universal credit under section 9(1) of the Welfare Reform Act 2012; (d) the standard allowance “for” a tax year means the standard allowance applicable for"
+          ]
+        },
+        {
+          "section_title": "Schedule 2 to the Employment and Support Allowance and Universal",
+          "keyword": "means",
+          "contexts": [
+            "sum of those amounts for the previous tax year, by (b) the relevant CPI percentage for the current tax year. 4 Universal Credit Act 2025 (c. 22) (3) In this section— (a) “the protected LCWRA amount” means the amount of the LCWRA element that applies to a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill (within the meanings of the Universal Credit Regulations",
+            "claimant or a claimant who is terminally ill (within the meanings of the Universal Credit Regulations 2013); (b) “the LCWRA element” has the meaning it has in section 3; (c) “the standard allowance” means the allowance to be included in an award of universal credit under section 9(1) of the Welfare Reform Act 2012; (d) reference to an amount or allowance “for” a tax year means the amount or allowance",
+            "“the standard allowance” means the allowance to be included in an award of universal credit under section 9(1) of the Welfare Reform Act 2012; (d) reference to an amount or allowance “for” a tax year means the amount or allowance applicable for any assessment period commencing on or after the first Monday of that tax year and before the first Monday of the following tax year, and for this purpose “asse"
+          ]
+        },
+        {
+          "section_title": "Schedule 4 to the Employment and Support Allowance",
+          "keyword": "means",
+          "contexts": [
+            "Schedule 4 to the Employment and Support Allowance Regulations 2008 or an amount in respect of housing costs; (b) an “amount of an ESA IR disability premium” means an amount of the severe disability premium or enhanced disability premium specified in Part 3 of Schedule 4 to the Employment and Support Allowance Regulations 2008, so far as prescribed under sectio",
+            "ecified in Part 3 of Schedule 4 to the Employment and Support Allowance Regulations 2008, so far as prescribed under section 4(2)(a) of the Welfare Reform Act 2007; (c) “the ESA IR support component” means the amount specified in paragraph 13 of Part 4 of Schedule 4 to the Employment and Support Allowance Regulations 2008, so far as specified under section 4(6)(c) of the Welfare Reform Act 2007; (d) “t",
+            "rt 4 of Schedule 4 to the Employment and Support Allowance Regulations 2008, so far as specified under section 4(6)(c) of the Welfare Reform Act 2007; (d) “the ESA IR work-related activity component” means the amount specified in paragraph 12 of Part 4 of Schedule 4 to the Employment and Support Allowance Regulations 2008, so far as specified under section 4(6)(c) of the Welfare Reform Act 2007 for the"
+          ]
+        },
+        {
+          "section_title": "SCHEDULE 1 Section 2",
+          "keyword": "interpretation",
+          "contexts": [
+            "1 Section 2 AMENDMENTS TO THE UNIVERSAL CREDIT REGULATIONS 2013 IN CONNECTION WITH NEW AMOUNTS OF THE LCWRA ELEMENT 1 The Universal Credit Regulations 2013 are amended as follows. 2 In regulation 2 (interpretation), at the appropriate places insert— ““pre-2026 claimant” has the meaning in regulation 27A(1);”; ““severe conditions criteria claimant” has the meaning in regulation 40A(2);”. 3 In regulation 27 (awa"
+          ]
+        },
+        {
+          "section_title": "Schedule 1—Amendments to the Universal Credit Regulations 2013 in connection with new amounts of",
+          "keyword": "means",
+          "contexts": [
+            "Regulations 2013 in connection with new amounts of the LCWRA element the claimant undertakes or attempts to undertake the activity described by that descriptor. (5) In this regulation “NHS services” means— (a) health care services provided for the purposes of the health service continued under— (i) section 1(1) of the National Health Service Act 2006; (ii) section 1(1) of the National Health Service ("
+          ]
+        }
+      ]
+    },
+    "eligibility": {
+      "status": "present",
+      "num_hits": 18,
+      "examples": [
+        {
+          "section_title": "Schedule 2 — N orthern Ireland: corresponding provision",
+          "keyword": "claimant",
+          "contexts": [
+            "gulations 2013 (amounts of elements)— Universal Credit Act 2025 (c. 22) 3 (a) before the row showing the amount for limited capability for work and work-related activity (“the existing row”) insert— “claimant with limited capability for work and £217.26”; work-related activity, other than a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill (b) in the existing row",
+            "the amount for limited capability for work and work-related activity (“the existing row”) insert— “claimant with limited capability for work and £217.26”; work-related activity, other than a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill (b) in the existing row, for “limited capability for work and work-related activity” substitute “pre-2026 claimant, severe c",
+            "ork and work-related activity (“the existing row”) insert— “claimant with limited capability for work and £217.26”; work-related activity, other than a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill (b) in the existing row, for “limited capability for work and work-related activity” substitute “pre-2026 claimant, severe conditions criteria claimant or claimant"
+          ]
+        },
+        {
+          "section_title": "Schedule 2 to the Employment and Support Allowance and Universal",
+          "keyword": "entitled",
+          "contexts": [
+            "nce for that tax year. (4) The result to be achieved for a tax year (“the current tax year”) is that for each combination of amounts referred to in subsection (3)(a) to (c) to which a person could be entitled, the sum of those amounts for the current tax year is at least (in each case) the amount given by increasing— Universal Credit Act 2025 (c. 22) 5 (a) the sum of those amounts for the previous tax yea"
+          ]
+        },
+        {
+          "section_title": "Schedule 2 to the Employment and Support Allowance and Universal",
+          "keyword": "claimant",
+          "contexts": [
+            "ant CPI percentage for the current tax year. 4 Universal Credit Act 2025 (c. 22) (3) In this section— (a) “the protected LCWRA amount” means the amount of the LCWRA element that applies to a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill (within the meanings of the Universal Credit Regulations 2013); (b) “the LCWRA element” has the meaning it has in section 3;",
+            "year. 4 Universal Credit Act 2025 (c. 22) (3) In this section— (a) “the protected LCWRA amount” means the amount of the LCWRA element that applies to a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill (within the meanings of the Universal Credit Regulations 2013); (b) “the LCWRA element” has the meaning it has in section 3; (c) “the standard allowance” means the",
+            "sal Credit Act 2025 (c. 22) (3) In this section— (a) “the protected LCWRA amount” means the amount of the LCWRA element that applies to a pre-2026 claimant, a severe conditions criteria claimant or a claimant who is terminally ill (within the meanings of the Universal Credit Regulations 2013); (b) “the LCWRA element” has the meaning it has in section 3; (c) “the standard allowance” means the allowance to"
+          ]
+        },
+        {
+          "section_title": "SCHEDULE 1 Section 2",
+          "keyword": "entitled",
+          "contexts": [
+            "t— “Meaning of “pre-2026 claimant” 27A. —(1) For the purposes of regulation 27, a claimant with limited capability for work and work-related activity is a “pre-2026 claimant” if the claimant— (a) was entitled at any time before 6 April 2026 to an award of universal credit that included the LCWRA element, and Universal Credit Act 2025 (c. 22) 7"
+          ]
+        },
+        {
+          "section_title": "SCHEDULE 1 Section 2",
+          "keyword": "claimant",
+          "contexts": [
+            "13 IN CONNECTION WITH NEW AMOUNTS OF THE LCWRA ELEMENT 1 The Universal Credit Regulations 2013 are amended as follows. 2 In regulation 2 (interpretation), at the appropriate places insert— ““pre-2026 claimant” has the meaning in regulation 27A(1);”; ““severe conditions criteria claimant” has the meaning in regulation 40A(2);”. 3 In regulation 27 (award to include LCWRA element)— (a) in paragraph (2), at t",
+            "egulations 2013 are amended as follows. 2 In regulation 2 (interpretation), at the appropriate places insert— ““pre-2026 claimant” has the meaning in regulation 27A(1);”; ““severe conditions criteria claimant” has the meaning in regulation 40A(2);”. 3 In regulation 27 (award to include LCWRA element)— (a) in paragraph (2), at the end insert “by reference to whether the claimant is— (a) a pre-2026 claimant",
+            "“severe conditions criteria claimant” has the meaning in regulation 40A(2);”. 3 In regulation 27 (award to include LCWRA element)— (a) in paragraph (2), at the end insert “by reference to whether the claimant is— (a) a pre-2026 claimant, (b) a severe conditions criteria claimant, (c) terminally ill, or (d) any other claimant.”; (b) in paragraph (3), after “activity” insert “or is a severe conditions crite"
+          ]
+        }
+      ]
+    },
+    "obligations": {
+      "status": "present",
+      "num_hits": 5,
+      "examples": [
+        {
+          "section_title": "Schedule 2 — N orthern Ireland: corresponding provision",
+          "keyword": "must",
+          "contexts": [
+            "al, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:— Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 (1) The Secretary of State must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated for each tax year in accordance with subse"
+          ]
+        },
+        {
+          "section_title": "Schedule 2 to the Employment and Support Allowance and Universal",
+          "keyword": "must",
+          "contexts": [
+            "Protected LCWRA amount for tax years 2026-27 to 2029-30 (1) Where it is necessary in order to achieve the result in subsection (2) for any of the tax years 2026-27 to 2029-30, the Secretary of State must exercise the power in section 9(2) or 12(3) of the Welfare Reform Act 2012 to increase— (a) the protected LCWRA amount for that tax year, or (b) any amount of the standard allowance for that tax year",
+            "mponent; (c) the ESA IR work-related activity component. (3) Where it is necessary in order to achieve the result in subsection (4) for any of the tax years 2026-27 to 2029-30, the Secretary of State must exercise the power in section 4(2)(a) or (6)(c) of the Welfare Reform Act 2007 to increase— (a) any amount of an ESA IR disability premium for that tax year, (b) the ESA IR support component for that"
+          ]
+        },
+        {
+          "section_title": "SCHEDULE 2 Section 6",
+          "keyword": "must",
+          "contexts": [
+            "SCHEDULE 2 Section 6 NORTHERN IRELAND: CORRESPONDING PROVISION Standard allowance for tax years 2026-27 to 2029-30 1 (1) The Department for Communities in Northern Ireland must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated for each tax year in accordance with sub-p"
+          ]
+        },
+        {
+          "section_title": "Schedule 2—Northern Ireland: corresponding provision",
+          "keyword": "must",
+          "contexts": [
+            "ears 2026-27 to 2029-30 3 (1) Where it is necessary in order to achieve the result in sub-paragraph (2) for any of the tax years 2026-27 to 2029-30, the Department for Communities in Northern Ireland must exercise the power in Article 14(2) or 17(3) of the Welfare Reform (Northern Ireland) Order 2015 to increase— (a) the protected LCWRA amount for that tax year, or (b) any amount of the standard allow"
+          ]
+        },
+        {
+          "section_title": "Schedule 2—Northern Ireland: corresponding provision",
+          "keyword": "must",
+          "contexts": [
+            "land) 2007 (c. 2 (N.I.)). (2) Where it is necessary in order to achieve the result in sub-paragraph (3) for any of the tax years 2026-27 to 2029-30, the Department for Communities in Northern Ireland must exercise the power in section 4(2)(a) or (6)(c) of the Welfare Reform Act (Northern Ireland) 2007 to increase— (a) any amount of the severe disability premium or enhanced disability premium specified"
+          ]
+        }
+      ]
+    },
+    "responsibilities": {
+      "status": "present",
+      "num_hits": 7,
+      "examples": [
+        {
+          "section_title": "Schedule 2 — N orthern Ireland: corresponding provision",
+          "keyword": "Secretary of State",
+          "contexts": [
+            "piritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:— Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 (1) The Secretary of State must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated for each tax year in accordance with"
+          ]
+        },
+        {
+          "section_title": "Schedule 2 — N orthern Ireland: corresponding provision",
+          "keyword": "authority",
+          "contexts": [
+            "tember 2025] B E IT ENACTED by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:— Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 (1) The Secretary of State must exercise a relevant power in order to secure that the amounts of the s"
+          ]
+        },
+        {
+          "section_title": "Schedule 2 to the Employment and Support Allowance and Universal",
+          "keyword": "Secretary of State",
+          "contexts": [
+            "egulations 2017). 4 Protected LCWRA amount for tax years 2026-27 to 2029-30 (1) Where it is necessary in order to achieve the result in subsection (2) for any of the tax years 2026-27 to 2029-30, the Secretary of State must exercise the power in section 9(2) or 12(3) of the Welfare Reform Act 2012 to increase— (a) the protected LCWRA amount for that tax year, or (b) any amount of the standard allowance for that tax",
+            "e ESA IR support component; (c) the ESA IR work-related activity component. (3) Where it is necessary in order to achieve the result in subsection (4) for any of the tax years 2026-27 to 2029-30, the Secretary of State must exercise the power in section 4(2)(a) or (6)(c) of the Welfare Reform Act 2007 to increase— (a) any amount of an ESA IR disability premium for that tax year, (b) the ESA IR support component for"
+          ]
+        },
+        {
+          "section_title": "SCHEDULE 2 Section 6",
+          "keyword": "Department",
+          "contexts": [
+            "SCHEDULE 2 Section 6 NORTHERN IRELAND: CORRESPONDING PROVISION Standard allowance for tax years 2026-27 to 2029-30 1 (1) The Department for Communities in Northern Ireland must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated f"
+          ]
+        },
+        {
+          "section_title": "Schedule 2—Northern Ireland: corresponding provision",
+          "keyword": "Department",
+          "contexts": [
+            "006 (N.I. 1)). Protected LCWRA amount for tax years 2026-27 to 2029-30 3 (1) Where it is necessary in order to achieve the result in sub-paragraph (2) for any of the tax years 2026-27 to 2029-30, the Department for Communities in Northern Ireland must exercise the power in Article 14(2) or 17(3) of the Welfare Reform (Northern Ireland) Order 2015 to increase— (a) the protected LCWRA amount for that tax year"
+          ]
+        }
+      ]
+    },
+    "payments": {
+      "status": "present",
+      "num_hits": 72,
+      "examples": [
+        {
+          "section_title": "CHAPTER 22",
+          "keyword": "£",
+          "contexts": [
+            "CHAPTER 22 Explanatory Notes have been produced to assist in the understanding of this Act and are available separately £8.90 Universal Credit Act 2025"
+          ]
+        },
+        {
+          "section_title": "CONTENTS",
+          "keyword": "amount",
+          "contexts": [
+            "TENTS Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 2 LCWRA element for tax year 2026-27 3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 4 Protected LCWRA amount for tax years 2026-27 to 2029-30 5 Legacy employment and support allowance payments Corresponding provision for Northern Ireland 6 Corresponding provision for Northern Ireland"
+          ]
+        },
+        {
+          "section_title": "CONTENTS",
+          "keyword": "allowance",
+          "contexts": [
+            "CONTENTS Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 2 LCWRA element for tax year 2026-27 3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 4 Protected LCWRA amount for tax years 2026-27 to 2029-30 5 L",
+            "9-30 2 LCWRA element for tax year 2026-27 3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 4 Protected LCWRA amount for tax years 2026-27 to 2029-30 5 Legacy employment and support allowance payments Corresponding provision for Northern Ireland 6 Corresponding provision for Northern Ireland"
+          ]
+        },
+        {
+          "section_title": "CONTENTS",
+          "keyword": "LCWRA",
+          "contexts": [
+            "CONTENTS Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 2 LCWRA element for tax year 2026-27 3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 4 Protected LCWRA amount for tax years 2026-27 to 2029-30 5 Legacy employment and support allowance pa",
+            "CONTENTS Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 2 LCWRA element for tax year 2026-27 3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 4 Protected LCWRA amount for tax years 2026-27 to 2029-30 5 Legacy employment and support allowance payments Corresponding provision for Northern Ire",
+            "CONTENTS Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 2 LCWRA element for tax year 2026-27 3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 4 Protected LCWRA amount for tax years 2026-27 to 2029-30 5 Legacy employment and support allowance payments Corresponding provision for Northern Ireland 6 Corresponding provision for Northern Ireland"
+          ]
+        },
+        {
+          "section_title": "CONTENTS",
+          "keyword": "standard allowance",
+          "contexts": [
+            "CONTENTS Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 2 LCWRA element for tax year 2026-27 3 Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30 4 Protected LCWRA amount for tax years 2026-27 to 2029-30 5 L"
+          ]
+        }
+      ]
+    },
+    "penalties": {
+      "status": "missing",
+      "num_hits": 0,
+      "examples": []
+    },
+    "record_keeping": {
+      "status": "missing",
+      "num_hits": 0,
+      "examples": []
+    }
+  },
+  "rule_checks": [
+    {
+      "rule": "Act must define key terms",
+      "status": "pass",
+      "evidence": [
+        "Schedule 2 — N orthern Ireland: corresponding provision — nefits) do not apply, in the tax years ending with 5 April 2026, 5 April 2027, 5 April 2028 and 5 April 2029, to any amount of the standard allowance. (6) In this section— (a) “consumer prices index” means the all items consumer prices index published by the Statistics Board; (b) a “relevant power” "
+      ],
+      "confidence": 95
+    },
+    {
+      "rule": "Act must specify eligibility criteria",
+      "status": "pass",
+      "evidence": [
+        "Schedule 2 — N orthern Ireland: corresponding provision — gulations 2013 (amounts of elements)— Universal Credit Act 2025 (c. 22) 3 (a) before the row showing the amount for limited capability for work and work-related activity (“the existing row”) insert— “claimant with limited capability for work and £217.26”; work-related activity, other than a pre-2026"
+      ],
+      "confidence": 95
+    },
+    {
+      "rule": "Act must specify responsibilities of the administering authority",
+      "status": "pass",
+      "evidence": [
+        "Schedule 2 — N orthern Ireland: corresponding provision — piritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:— Universal credit 1 Standard allowance for tax years 2026-27 to 2029-30 (1) The Secretary of State must exercise a relevant power in order to secure that the amounts of the standar"
+      ],
+      "confidence": 95
+    },
+    {
+      "rule": "Act must include enforcement or penalties",
+      "status": "fail",
+      "evidence": [],
+      "confidence": 30
+    },
+    {
+      "rule": "Act must include payment calculation or entitlement structure",
+      "status": "pass",
+      "evidence": [
+        "CHAPTER 22 — CHAPTER 22 Explanatory Notes have been produced to assist in the understanding of this Act and are available separately £8.90 Universal Credit Act 2025"
+      ],
+      "confidence": 95
+    },
+    {
+      "rule": "Act must include record-keeping or reporting requirements",
+      "status": "fail",
+      "evidence": [],
+      "confidence": 30
+    }
+  ],
+  "provenance": {
+    "source_file": "data/ukpga_20250022_en.pdf"
+  }
+}

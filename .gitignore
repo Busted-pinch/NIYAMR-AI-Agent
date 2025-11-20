@@ -1,0 +1,19 @@
+# Ignore environment files
+.env
+.env.*
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore debug/output extras
+outputs/*.bak
+outputs/_debug*
+outputs/report_debug.json
+
+# VSCode / editor junk
+.vscode/
+.idea/
+
+# Docker build caches
+*.log
