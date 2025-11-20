@@ -84,7 +84,7 @@ OPENAI_API_KEY=sk-your-key
 
 ## 3️⃣ Build Docker Image
 ```bash
-docker compose build
+docker compose build --no-cache
 ```
 
 ---
@@ -174,4 +174,5 @@ The NIYAMR-AI-Agent gives a clean, reproducible, automated pipeline for legal do
 - Clear compliance assessment  
 
 Ready for grading, or future extensions.
+
 
