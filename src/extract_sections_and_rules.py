@@ -1,19 +1,3 @@
-# src/extract_sections_and_rules.py
-"""
-Improved extractor and rule-checker for NIYAMR-AI-Agent.
-
-Reads:
-  - outputs/extracted_sections.json
-
-Writes:
-  - outputs/report.json         (concise rule_checks + provenance)
-  - outputs/report_debug.json   (detailed per-field examples & sections for debugging)
-
-Behavior:
-  - searches each section for extended keywords
-  - attaches section title + contextual snippet for evidence
-  - converts presence/absence to pass/fail for the six assignment rules
-"""
 import json
 import re
 from pathlib import Path
@@ -22,7 +6,7 @@ SECTIONS_FILE = Path("outputs/extracted_sections.json")
 OUT_REPORT = Path("outputs/report.json")
 OUT_DEBUG = Path("outputs/report_debug.json")
 
-# Extended keywords per field (aggressive list)
+# Extended keywords
 keywords = {
     "definitions": ["definition", "interpretation", "means", "defined", "definition:"],
     "eligibility": ["entitled", "eligible", "eligibility", "claimant", "entitlement", "entitlements"],
@@ -74,7 +58,6 @@ def main():
     report_fields = {}
     debug = {}
 
-    # Search each keyword group and record results
     for field, kw_list in keywords.items():
         hits = find_evidence_all_sections(sections, kw_list, max_examples=3)
         if hits:
@@ -91,7 +74,7 @@ def main():
             }
         debug[field] = report_fields[field]
 
-    # Now build rule checks expected by the assignment (6 rules)
+    # Rule checks (6 rules)
     rule_texts = [
         ("Act must define key terms", "definitions"),
         ("Act must specify eligibility criteria", "eligibility"),
@@ -123,7 +106,7 @@ def main():
             "confidence": confidence
         })
 
-    # Write final report and debug file
+    # Write final report
     OUT_REPORT.parent.mkdir(parents=True, exist_ok=True)
     OUT_REPORT.write_text(json.dumps({
         "report_fields": report_fields,
