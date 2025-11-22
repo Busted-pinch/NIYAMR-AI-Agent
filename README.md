@@ -1,6 +1,5 @@
-# 🧠 NIYAMR-AI-Agent  
+# 🧠 UCA-NIYAMR-AI-Agent  
 ### Automated Legal PDF → Structured Summary → Compliance Report  
-**48-Hour NIYAMR Internship Assignment**
 
 This project provides an end-to-end AI pipeline that extracts structured text from a legal PDF, summarises it intelligently using OpenAI models, and performs rule-based compliance checks. The entire system runs inside Docker for consistency, ease of execution, and zero dependency issues.
 
@@ -172,6 +171,7 @@ The NIYAMR-AI-Agent gives a clean, reproducible, automated pipeline for legal do
 - Clear compliance assessment  
 
 Ready for grading, or future extensions.
+
 
 
 
