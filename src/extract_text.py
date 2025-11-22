@@ -1,14 +1,8 @@
-# src/extract_text.py
-"""
-Extract text from PDFs in data/ and write structured sections to outputs/extracted_sections.json.
-Assumes PDFs are in data/ (host) and outputs/ is writable.
-"""
 from pathlib import Path
 import pdfplumber
 import re
 import json
 
-# Paths (consistent)
 DATA_DIR = Path("data")
 PDF = DATA_DIR / "ukpga_20250022_en.pdf"
 OUT_DIR = Path("outputs")
@@ -18,14 +12,12 @@ def normalize_whitespace(s):
     return re.sub(r'\s+', ' ', s).strip()
 
 def split_into_sections(text):
-    # split at headings likely to be used in UK Acts (Section, SCHEDULE, CHAPTER, CONTENTS, Schedule)
     parts = re.split(r'\n(?=(?:Section|SECTION|SCHEDULE|Schedule|CHAPTER|CONTENTS|Short title)\b)', text)
     sections = []
     for p in parts:
         p = p.strip()
         if not p:
             continue
-        # attempt a title from first line up to 200 chars
         first_line = p.split('\n', 1)[0].strip()
         title = first_line[:200]
         sections.append({"title": title, "text": normalize_whitespace(p)})

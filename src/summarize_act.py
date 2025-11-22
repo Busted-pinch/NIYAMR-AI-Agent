@@ -1,9 +1,3 @@
-# src/summarize_act.py
-"""
-Robust summariser that reads outputs/extracted_sections.json and writes outputs/summary.json.
-Small chunks, retries, partial-intermediate saving for resume.
-Requires OPENAI_API_KEY in environment.
-"""
 import json
 import os
 import time
@@ -11,12 +5,10 @@ from pathlib import Path
 from openai import OpenAI
 from httpx import ReadTimeout, HTTPError
 
-# Paths
 SECTIONS_FILE = Path("outputs/extracted_sections.json")
 OUT_SUMMARY = Path("outputs/summary.json")
 OUT_INTERMEDIATE = Path("outputs/summary_intermediate.json")
 
-# Tunables
 CHUNK_MAX_CHARS = 1200
 MAX_TOKENS_PER_CALL = 400
 RETRIES = 3
